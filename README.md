@@ -1,2 +1,0 @@
-# Agrosys
-Avaliação Técnica 
